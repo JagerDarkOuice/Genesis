@@ -1,3 +1,0 @@
-C:/Users/Asher/Documents/Genesis/build/CMakeFiles/genesis.dir
-C:/Users/Asher/Documents/Genesis/build/CMakeFiles/edit_cache.dir
-C:/Users/Asher/Documents/Genesis/build/CMakeFiles/rebuild_cache.dir
