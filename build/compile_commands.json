@@ -1,37 +1,37 @@
 [
 {
   "directory": "C:/Users/Asher/Documents/Genesis/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\main.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\main.cpp",
+  "command": "F:\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\main.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\main.cpp",
   "file": "C:/Users/Asher/Documents/Genesis/src/main.cpp",
   "output": "CMakeFiles/genesis.dir/src/main.cpp.obj"
 },
 {
   "directory": "C:/Users/Asher/Documents/Genesis/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\config.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\config.cpp",
+  "command": "F:\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\config.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\config.cpp",
   "file": "C:/Users/Asher/Documents/Genesis/src/config.cpp",
   "output": "CMakeFiles/genesis.dir/src/config.cpp.obj"
 },
 {
   "directory": "C:/Users/Asher/Documents/Genesis/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/genesis.dir/includes_C.rsp -g -o CMakeFiles\\genesis.dir\\src\\glad.c.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\glad.c",
+  "command": "F:\\MSYS2\\ucrt64\\bin\\gcc.exe  @CMakeFiles/genesis.dir/includes_C.rsp -g -o CMakeFiles\\genesis.dir\\src\\glad.c.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\glad.c",
   "file": "C:/Users/Asher/Documents/Genesis/src/glad.c",
   "output": "CMakeFiles/genesis.dir/src/glad.c.obj"
 },
 {
   "directory": "C:/Users/Asher/Documents/Genesis/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\triangle_mesh.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\triangle_mesh.cpp",
+  "command": "F:\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\triangle_mesh.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\triangle_mesh.cpp",
   "file": "C:/Users/Asher/Documents/Genesis/src/triangle_mesh.cpp",
   "output": "CMakeFiles/genesis.dir/src/triangle_mesh.cpp.obj"
 },
 {
   "directory": "C:/Users/Asher/Documents/Genesis/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\material.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\material.cpp",
+  "command": "F:\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\material.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\material.cpp",
   "file": "C:/Users/Asher/Documents/Genesis/src/material.cpp",
   "output": "CMakeFiles/genesis.dir/src/material.cpp.obj"
 },
 {
   "directory": "C:/Users/Asher/Documents/Genesis/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\linear_algebruh.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\linear_algebruh.cpp",
+  "command": "F:\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/genesis.dir/includes_CXX.rsp -g -o CMakeFiles\\genesis.dir\\src\\linear_algebruh.cpp.obj -c C:\\Users\\Asher\\Documents\\Genesis\\src\\linear_algebruh.cpp",
   "file": "C:/Users/Asher/Documents/Genesis/src/linear_algebruh.cpp",
   "output": "CMakeFiles/genesis.dir/src/linear_algebruh.cpp.obj"
 }
