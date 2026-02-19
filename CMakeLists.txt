@@ -9,12 +9,21 @@ src/main.cpp
 src/config.h
 src/config.cpp
 src/glad.c
-src/triangle_mesh.cpp
-src/material.cpp
-src/linear_algebruh.cpp
+
+src/controller/app.cpp
+src/controller/app.h
+
+src/view/shader.cpp
+src/view/shader.cpp
+
+src/components/transform2D_component.h
+src/components/render2D_component.h
+
+src/systems/render2D_system.cpp
+src/systems/render2D_system.h
+
 )
 
 target_include_directories(genesis PRIVATE dependencies)
 
 target_link_libraries(genesis glfw3 OpenGL::GL)
-
